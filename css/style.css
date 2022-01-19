@@ -1,9 +1,8 @@
-.banner{
-    padding-bottom: 130px;
-}
+/* banner section */
+
 
 .banner h1{
-    margin-top: 100px;
+    
     font-family: 'Bebas Neue', cursive;
     font-size: 80px;
     line-height: 96px;
@@ -33,10 +32,11 @@
     color: white;
 }
 
-.section{
-    margin-top: 50px;
-    margin-bottom: 100px;
+.banner-right img{
+    width: 100%;
 }
+
+
 
 .section h1{
     font-family: 'Bebas Neue', cursive;
@@ -47,7 +47,7 @@
 }
 
 .product{
-    width: 95%;
+    
     border-radius: 20px;
     padding: 15px;
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
@@ -93,9 +93,13 @@
 }
 
 .bottom-card{
-    width: 489px;
+    width: 100%;
     padding: 10px;
     border-radius: 20px;
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
     margin-bottom: 20px;
+}
+
+.bottom-image img{
+    width: 100%;
 }
