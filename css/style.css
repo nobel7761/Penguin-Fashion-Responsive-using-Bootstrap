@@ -1,0 +1,101 @@
+.banner{
+    padding-bottom: 130px;
+}
+
+.banner h1{
+    margin-top: 100px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    line-height: 96px;
+    color: #363958;
+}
+
+.colored-text{
+    color: #FABE4C;
+}
+
+.button{
+    width: 170px;
+    height: 60px;
+    background-color: #9CB53A;
+    border-radius: 10px;
+    color: white;
+}
+
+.btn-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-left: 6px;
+}
+
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+.section{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.section h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    line-height: 58px;
+    color: #363958;
+    margin-bottom: 20px;
+}
+
+.product{
+    width: 95%;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.img-background{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.img-background img{
+    width: 70%;
+}
+
+.product h3{
+    margin-top: 17px;
+    margin-bottom: 13px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #363958;;
+}
+
+.product p{
+    margin-top: 13px;
+    margin-bottom: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #363958;;
+}
+
+.product-bottom{
+    margin-top: 12px;
+}
+
+.product-bottom h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.bottom-card{
+    width: 489px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
